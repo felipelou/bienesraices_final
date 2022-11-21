@@ -13,7 +13,7 @@
         <div class="texto-entrada">
             <a href="/entrada">
                 <h4>Terraza en el techo de tu casa</h4>
-                <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                <p>Escrito el: <span>21/11/2022</span> por: <span>Admin</span> </p>
 
                 <p>
                     Consejos para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero
@@ -34,7 +34,7 @@
         <div class="texto-entrada">
             <a href="/entrada">
                 <h4>Guía para la decoración de tu hogar</h4>
-                <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                <p>Escrito el: <span>21/11/2022</span> por: <span>Admin</span> </p>
 
                 <p>
                     Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles y colores para darle vida a tu espacio
@@ -55,7 +55,7 @@
         <div class="texto-entrada">
             <a href="/entrada">
                 <h4>Terraza en el techo de tu casa</h4>
-                <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                <p>Escrito el: <span>21/11/2022</span> por: <span>Admin</span> </p>
 
                 <p>
                     Consejos para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero
@@ -76,7 +76,7 @@
         <div class="texto-entrada">
             <a href="/entrada">
                 <h4>Guía para la decoración de tu hogar</h4>
-                <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                <p>Escrito el: <span>21/11/2022</span> por: <span>Admin</span> </p>
 
                 <p>
                     Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles y colores para darle vida a tu espacio

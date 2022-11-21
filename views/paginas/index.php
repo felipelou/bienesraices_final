@@ -75,7 +75,7 @@
             <div class="texto-entrada">
                 <a href="entrada.php">
                     <h4>Guía para la decoración de tu hogar</h4>
-                    <p class="informacion-meta">Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                    <p class="informacion-meta">Escrito el: <span>21/11/2022</span> por: <span>Admin</span> </p>
 
                     <p>
                         Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles y colores para darle vida a tu espacio
@@ -92,7 +92,7 @@
             <blockquote>
                 El personal se comportó de una excelente forma, muy buena atención y la casa que me ofrecieron cumple con todas mis expectativas.
             </blockquote>
-            <p>- Juan De la torre</p>
+            <p>- Felipe Rosas</p>
         </div>
     </section>
 </div>

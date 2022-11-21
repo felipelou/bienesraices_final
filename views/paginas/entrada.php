@@ -9,7 +9,7 @@
         <img loading="lazy" src="build/img/destacada2.jpg" alt="imagen de la propiedad">
     </picture>
 
-    <p class="informacion-meta">Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+    <p class="informacion-meta">Escrito el: <span>20/10/2022</span> por: <span>Admin</span> </p>
 
 
     <div class="resumen-propiedad">
