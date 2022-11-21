@@ -1,0 +1,19 @@
+{
+    "name": "felipelou/bienes-raices-mvc_fin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Felipelou\\BienesRaicesMvcFin\\": "src/",
+            "Model\\": "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Alejandro Rosas Mendoza",
+            "email": "felipelou123499@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
